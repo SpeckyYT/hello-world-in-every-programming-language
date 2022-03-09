@@ -19,3 +19,4 @@ Hello world in every programming language.
 - [Python3](p/python3.py)
 - [Ruby](r/ruby.rb)
 - [R](r/r.r)
+- [SPWN](s/spwn.spwn)
